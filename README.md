@@ -60,7 +60,7 @@ Available Token Platform Names:
 
 Enter the exact name of the token platform you want to query (or 'exit' to quit): Solana
 
-Fetching 'Solana'-based cryptocurrencies...
+Fetching 'Sui Network'-based cryptocurrencies...
 
 | CMC Rank | Coin Name         | Token Mint Address                                                      |
 | :------- | :---------------- | :---------------------------------------------------------------------- |
