@@ -62,14 +62,11 @@ Enter the exact name of the token platform you want to query (or 'exit' to quit)
 
 Fetching 'Solana'-based cryptocurrencies...
 
---- Live Output for Solana Tokens ---
-CMC Rank  | Coin Name                    | Token Mint Address
---------------------------------------------------------------------------------
-11        | Solana                       | N/A (Not Available via CMC API)
-46        | Render Token                 | 0x6de037ef95b14f8ef0f5f40391d8cf0...
-48        | Bonk                         | N/A (Not Available via CMC API)
-...
---------------------------------------------------------------------------------
+| CMC Rank | Coin Name         | Token Mint Address                                                      |
+| :------- | :---------------- | :---------------------------------------------------------------------- |
+| 96       | Walrus            | 0x356a26eb9e012a68958082340d4c4116e7f55615cf27affcff209cf0ae544f59::wal::WAL |
+| 119      | DeepBook Protocol | 0xdeeb7a4662eec9f2f3def03fb937a663dddaa2e215b8078a284d026b7946c270::deep::DEEP |
+| 356      | Cetus Protocol    | 0x06864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b::cetus::CETUS |
 
-Successfully exported 150 'Solana'-based cryptocurrencies to 'solana_tokens.csv'
-File saved in: /path/to/your/script/solana_tokens.csv
+Successfully exported 3 'Sui Network'-based cryptocurrencies to 'sui_network_tokens.csv'
+File saved in: /path/to/your/script/sui_network_tokens.csv
