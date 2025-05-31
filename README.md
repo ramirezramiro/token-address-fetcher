@@ -58,7 +58,7 @@ Available Token Platform Names:
   30. Solana
   ...
 
-Enter the exact name of the token platform you want to query (or 'exit' to quit): Solana
+Enter the exact name of the token platform you want to query (or 'exit' to quit): Sui Network
 
 Fetching 'Sui Network'-based cryptocurrencies...
 
