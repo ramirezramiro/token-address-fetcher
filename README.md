@@ -1,7 +1,5 @@
 # token-address-fetcher
 
-# Crypto Platform Token Exporter
-
 This Python script allows you to easily fetch and export cryptocurrency token information (CMC Rank, Coin Name, and Token Mint Address) for specific blockchain platforms from CoinMarketCap. You can choose which platform's tokens you want to retrieve, and the data will be saved to a CSV file for your convenience.
 
 ---
